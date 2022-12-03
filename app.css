@@ -1,0 +1,29 @@
+h1{
+    font-size:88px;
+    color:red;
+}
+body{
+    background-color:black;
+    color:aliceblue;
+}
+
+.content{
+    margin-top: 122ppx;
+    margin-left:52px;
+}
+
+.content h4{
+    font: weight 700;
+}
+.content h1{
+    font-weight:700;
+}
+.content p{
+    font-size: 22px;
+    font-weight:400;
+    width:490px;
+}
+.content a{
+    border:2px solid
+    
+}
